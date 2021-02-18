@@ -1,6 +1,13 @@
-### Hi there 👋
+### Hi there 👋  
 
-<!--
-**AnthoVDO/AnthoVDO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my github page.  
 
-🌱 I have just started to learn React
+I'm Anthony and I'm learning web developpement.  
+
+I already made some little project in HTML, CSS, Sass and Javascript.  
+
+🌱 Currently, I have just started to learn React
+
+
+
+
