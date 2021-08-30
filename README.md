@@ -6,6 +6,8 @@ I'm Anthony and I'm learning web developpement as a selftaught.
 
 I'm using FreeCodeCamp as a path.
 
+You can see my projects here ➡️ [AnthoVDO's portfolio](https://anthovdo-portfolio.vercel.app/)
+
 ☑️Sections completed:   
 [Responsive Web Design Certification](https://www.freecodecamp.org/certification/anthovdo/responsive-web-design)  
 [Javascript Algorithm And Data Structure Certification](https://www.freecodecamp.org/certification/anthovdo/javascript-algorithms-and-data-structures)  
@@ -34,23 +36,11 @@ I already made some little project in
 
 I'm currently learning 
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="21px" height="21px"></a>, 
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="50px" height="21px" background-color="white"></a>. and 
-Puppeteer.  
+<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="50px" height="21px" background-color="white"></a>. 
   
 You will find some of my work below
 
 Have a nice code 😄  
-  
-  
-  
-### Front end  
-  
-[Country inhabitants](https://country-inhabitants-react-js.vercel.app/) This is a project that I made while learning React, it show the inhabitants by country and can be filtered [Check the repo](https://github.com/AnthoVDO/country-inhabitants-ReactJs)   
-[Task tracker](https://task-tracker-react-anthovdo.vercel.app/) This is a task tracker made with React to practice [Check the repo](https://github.com/AnthoVDO/task-tracker-react)  
-[Interactive pricing component](https://interactive-pricing-component-chi.vercel.app/) I did this project with HTML, CSS and javascript for the [front end mentor](https://www.frontendmentor.io/) challenge [Check the repo](https://github.com/AnthoVDO/Front_End_Mentor--Challenge/tree/master/interactive-pricing-component-main)  
-[]()
-
-
 
 
 
