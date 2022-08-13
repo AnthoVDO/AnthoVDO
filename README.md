@@ -2,9 +2,7 @@
 
 Welcome to my github page.  
 
-I'm Anthony and I'm learning web developpement as a selftaught.
-
-I'm using FreeCodeCamp as a path.
+I'm a javascript developer working with NetSuite
 
 You can see my projects here ➡️ [AnthoVDO's portfolio](https://anthovdo-portfolio.vercel.app/)  
   
