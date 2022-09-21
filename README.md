@@ -17,7 +17,8 @@ ___
 [Apis and Microservices](https://www.freecodecamp.org/certification/anthovdo/apis-and-microservices)
 
 ☑️Other certifications:  
-[Développeur C# | Formation complète 2021](https://www.udemy.com/certificate/UC-4cdc0d83-6f14-4e59-9153-dacaf5a56cb6/)
+[Développeur C# | Formation complète 2021](https://www.udemy.com/certificate/UC-4cdc0d83-6f14-4e59-9153-dacaf5a56cb6/)  
+CS50: Introduction to computer science (In progress)  
   
 ___  
   
