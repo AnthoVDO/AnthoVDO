@@ -41,7 +41,10 @@ ___
 ### 🔥 Working on  
   
 <a href="https://folder-tag.com/" title="Folder-tag">Folder-tag</a>  
-<a href="https://awesome-snapshot.com/" title="awesome snapshot">Awesome-snapshot</a>
+<a href="https://awesome-snapshot.com/" title="awesome snapshot">Awesome-snapshot</a>  
+  
+ [![Antho's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthoVDO&count_private=true&theme=tokyonight)](https://github.com/AnthoVDO/github-readme-stats)  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthoVDO&layout=compact&theme=tokyonight)](https://github.com/AnthoVDO/github-readme-stats)
   
 Have a nice code 😄  
 
