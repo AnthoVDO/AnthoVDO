@@ -4,7 +4,8 @@ Welcome to my github page.
 
 I'm a javascript developer working with NetSuite
 
-You can see my projects here ➡️ [AnthoVDO's portfolio](https://anthovdo-portfolio.vercel.app/)  
+I like to make side project.  
+Currently working on <a href="https://timesavvy.io/" title="TimeSavvy">TimeSavvy</a>
   
 ___  
 ### 🏆 Certifications   
